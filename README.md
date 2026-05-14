@@ -1,6 +1,6 @@
 # vendor-sync-util
 
-Vendor library source into your project so coding agents can read it.
+Vendor library source code into your project so coding agents can read it.
 
 ## What and why
 
