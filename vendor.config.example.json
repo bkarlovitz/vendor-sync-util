@@ -1,0 +1,19 @@
+{
+  "outDir": "repos",
+  "entries": [
+    {
+      "package": "effect",
+      "version": "3.10.4",
+      "repo": "https://github.com/Effect-TS/effect.git",
+      "ref": "effect@3.10.4",
+      "dir": "effect"
+    },
+    {
+      "package": "hono",
+      "version": "4.6.3",
+      "repo": "https://github.com/honojs/hono.git",
+      "ref": "v4.6.3",
+      "dir": "hono"
+    }
+  ]
+}
