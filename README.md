@@ -142,7 +142,7 @@ See [SPEC.md](./SPEC.md) for the full design and out-of-scope list.
 
 ## References
 
-- [The one weird `git` trick that makes coding agents more Effect-ive](https://effect.website/blog/the-one-weird-git-trick-that-makes-coding-agents-more-effect-ive/) — the inspiration for this approach.
+- [The one weird `git` trick that makes coding agents more Effect-ive](https://effect.website/blog/the-one-weird-git-trick-that-makes-coding-agents-more-effect-ive/)
 
 ## License
 
